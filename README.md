@@ -2,6 +2,8 @@
 
 Dashboard interactivo construido con **Python + Dash + Plotly** para el análisis de ventas de productos de snacks y frutos secos, con datos del período enero 2025 – marzo 2026.
 
+<img width="953" height="631" alt="image" src="https://github.com/user-attachments/assets/c8b779f0-801e-4e58-81ed-1c6fa714c394" />
+
 ---
 
 ## Características

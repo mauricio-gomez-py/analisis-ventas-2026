@@ -1,0 +1,76 @@
+/* ── Dropdown: contenedor principal ──────────────────────────────────────── */
+.Select-control {
+    background-color: #1E293B !important;
+    border: 1px solid #334155 !important;
+    color: #F1F5F9 !important;
+}
+
+/* Valor seleccionado */
+.Select--single .Select-value,
+.Select-value-label {
+    color: #F1F5F9 !important;
+}
+
+/* Placeholder */
+.Select-placeholder {
+    color: #94A3B8 !important;
+}
+
+/* Campo de búsqueda */
+.Select-input > input {
+    color: #F1F5F9 !important;
+    background-color: transparent !important;
+}
+
+/* Flecha */
+.Select-arrow {
+    border-top-color: #94A3B8 !important;
+}
+
+/* ── Menú de opciones ─────────────────────────────────────────────────────── */
+.Select-menu-outer {
+    background-color: #1E293B !important;
+    border: 1px solid #334155 !important;
+    z-index: 9999 !important;
+}
+
+.Select-menu {
+    background-color: #1E293B !important;
+}
+
+.Select-option {
+    background-color: #1E293B !important;
+    color: #F1F5F9 !important;
+}
+
+.Select-option:hover,
+.Select-option.is-focused {
+    background-color: #334155 !important;
+    color: #F1F5F9 !important;
+    cursor: pointer;
+}
+
+.Select-option.is-selected {
+    background-color: #2563EB !important;
+    color: #ffffff !important;
+}
+
+.Select-option.is-disabled {
+    color: #94A3B8 !important;
+}
+
+/* ── Noscroll cuando el menú está abierto ────────────────────────────────── */
+.VirtualizedSelectFocusedOption {
+    background-color: #334155 !important;
+    color: #F1F5F9 !important;
+}
+
+.VirtualizedSelectSelectedOption {
+    background-color: #2563EB !important;
+    color: #ffffff !important;
+}
+
+.VirtualizedSelectOption {
+    color: #F1F5F9 !important;
+    background-color: #1E293B !important;
+}

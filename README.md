@@ -46,25 +46,6 @@ Dashboard interactivo construido con **Python + Dash + Plotly** para el análisi
 
 ---
 
-## Instalación y uso
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/analisis-ventas-2026.git
-cd analisis-ventas-2026
-
-# 2. Crear entorno virtual (opcional pero recomendado)
-python -m venv venv
-source venv/bin/activate      # Linux / Mac
-venv\Scripts\activate         # Windows
-
-# 3. Instalar dependencias
-pip install -r requirements.txt
-
-# 4. Ejecutar el dashboard
-python app.py
-```
-
 Abrir en el navegador: [http://127.0.0.1:8050](http://127.0.0.1:8050)
 
 ---
